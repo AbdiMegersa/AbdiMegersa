@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @AbdiMegersa
 - 👀 I’m a fullStack developer. 
 Experienced in : 
-  Reactjs, Nodejs, PHP, Express, MongoDb, Firebase, MySql
-- abdimegersa14@gmail.com
+
+  Reactjs, 
+  Angular,
+
+
+contact- +251900901056
