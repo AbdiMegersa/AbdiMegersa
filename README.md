@@ -4,6 +4,6 @@ Experienced in :
 
   Reactjs, 
   Angular,
+  NodeJs,
+  Express
 
-
-contact- +251900901056
