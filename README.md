@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 <img src="https://i.ibb.co/HTwns3S/1986d30b-2037-450b-a31f-0abd7b8c9ba3.jpg"  alt="bg-image" align="right"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdimegersa&label=Profile%20views&color=0e75b6&style=flat" alt="abdimegersa" /> </p>
+<p align="left"> </p>
 
 - 🌱 I’m currently learning **Angular**
 
